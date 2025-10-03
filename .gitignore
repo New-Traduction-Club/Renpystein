@@ -1,0 +1,9 @@
+log.txt
+traceback.txt
+.vscode/
+game/saves/
+**.rpyc
+**.rpyb
+game/cache/
+android.json
+**.keystore
